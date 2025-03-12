@@ -1,0 +1,25 @@
+body {
+  background-color: #F1F0E9;
+  margin-left: 200px;
+  margin-right: 200px;
+  font-family: 'Merriweather';
+}
+a:link{
+  text-decoration: none;
+  color: #0D4715;
+  
+}
+a:visited{
+  text-decoration: none;
+  color: #3cab46;
+  
+}
+a:hover{
+  text-decoration: none;
+  color: #0D4715;
+  font-weight: bold;
+  
+}
+.formatheader{
+  font-size: larger;
+}
